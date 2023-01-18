@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TsukklidKontrollToo", "TsukklidKontrollToo.pyproj", "{2D1D6053-79A3-4D7F-B11E-D3242AA04AAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D1D6053-79A3-4D7F-B11E-D3242AA04AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D1D6053-79A3-4D7F-B11E-D3242AA04AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B48A314A-0EEE-4BD0-B678-848EC8BEDCD2}
+	EndGlobalSection
+EndGlobal
